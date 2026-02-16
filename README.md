@@ -17,7 +17,7 @@
 ## 👋 About Me
 I’m a **Computer Science student** preparing seriously for **software engineering roles**.
 
-- 🎯 Placement-focused mindset  
+- 🎯 focused mindset  
 - 🧠 Strong emphasis on **DSA, algorithms & fundamentals**
 - ⚙️ Build end-to-end applications (frontend → backend → DB)
 - 🚀 Prefer **clean, scalable code** over shortcuts
