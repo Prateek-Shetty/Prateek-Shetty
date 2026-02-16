@@ -1,6 +1,7 @@
 <h1 align="center">Prateek Shetty</h1>
+
 <p align="center">
-  <b>Full-Stack Developer | CS Student | Problem Solver</b>
+  <b>Full-Stack Developer | CS Student | DSA-Focused | AIML | DL </b>
 </p>
 
 <p align="center">
@@ -8,18 +9,20 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&center=true&vCenter=true&width=500&lines=Building+real+software;DSA+%2B+System+Thinking;Full+Stack+%7C+ML+%7C+Backend" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&center=true&vCenter=true&width=520&lines=Building+real+software;Focused+on+DSA+%26+Core+CS;Full+Stack+%7C+Backend+%7C+ML" />
 </p>
 
 ---
 
 ## 👋 About Me
-I’m a **Computer Science student** focused on **engineering solid software**, not just completing tutorials.
+I’m a **Computer Science student** preparing seriously for **software engineering roles**.
 
-- 🎯 Preparing for **on-campus placements**
-- 🧠 Strong emphasis on **DSA & core CS**
-- ⚙️ Build **end-to-end applications**
-- 🚀 Care about **clean architecture & performance**
+- 🎯 Placement-focused mindset  
+- 🧠 Strong emphasis on **DSA, algorithms & fundamentals**
+- ⚙️ Build end-to-end applications (frontend → backend → DB)
+- 🚀 Prefer **clean, scalable code** over shortcuts
+
+I’m here to **get better every day**, not to decorate profiles.
 
 ---
 
@@ -60,38 +63,19 @@ I’m a **Computer Science student** focused on **engineering solid software**, 
 ## 🧩 DSA & LeetCode
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=light&font=Karma&ext=contest" />
+  <img src="https://leetcard.jacoblin.cool/Prateek_Shetty?theme=light&font=Karma&ext=contest" />
 </p>
 
 <p align="center">
-  🔗 <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/">leetcode.com/YOUR_LEETCODE_USERNAME</a>
+  🔗 <a href="https://leetcode.com/u/Prateek_Shetty/">leetcode.com/u/Prateek_Shetty</a>
 </p>
 
-**Focus Areas**
-- Arrays, Strings, STL
-- Linked List, Stack, Queue
-- Trees, Graphs
-- Dynamic Programming
-- Time & Space Complexity
-
----
-
-## 🚧 Featured Projects
-
-### 🔹 Full Stack Web Application
-- **Tech**: React, Node.js, PostgreSQL
-- **Highlights**: Auth, REST APIs, clean UI
-- 🔗 _Add repo link_
-
-### 🔹 ML / AI Project
-- **Tech**: Python, TensorFlow / OpenCV
-- **Use Case**: Real-world problem solving
-- 🔗 _Add repo link_
-
-### 🔹 Backend / System Project
-- **Tech**: Express, DB, API design
-- **Focus**: Scalability & architecture
-- 🔗 _Add repo link_
+**Core Focus**
+- Arrays & Strings  
+- Linked List, Stack, Queue  
+- Trees & Graphs  
+- Dynamic Programming  
+- STL, Time & Space Complexity  
 
 ---
 
@@ -112,12 +96,10 @@ I’m a **Computer Science student** focused on **engineering solid software**, 
 ---
 
 ## 📫 Contact
-- 📧 Email: _your email_
-- 💼 LinkedIn: _your linkedin_
-- 📄 Resume: _resume link_
+- 📧 Email: prateekshetty2552@gmail.com
 
 ---
 
 <p align="center">
-  <b>Focused. Consistent. Building every day.</b>
+  <b>Consistent effort. Solid fundamentals. Long-term growth.</b>
 </p>
