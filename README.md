@@ -1,88 +1,102 @@
 <h1 align="center">Prateek Shetty</h1>
 <p align="center">
-  Full-Stack Developer • CS Student • Problem Solver
+  <b>Full-Stack Developer | CS Student | Problem Solver</b>
 </p>
 
 <p align="center">
-  <a href="https://github.com/prateek-shetty">
-    <img src="https://komarev.com/ghpvc/?username=prateek-shetty&style=flat&color=grey" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=prateek-shetty&style=flat&color=0e75b6" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&center=true&vCenter=true&width=500&lines=Building+real+software;DSA+%2B+System+Thinking;Full+Stack+%7C+ML+%7C+Backend" />
 </p>
 
 ---
 
 ## 👋 About Me
-I’m a **Computer Science student** focused on **building real, scalable software**, not tutorial junk.
+I’m a **Computer Science student** focused on **engineering solid software**, not just completing tutorials.
 
-- 🔭 Currently preparing for **on-campus placements**
-- 🧠 Strong focus on **DSA + system thinking**
-- 💻 Build **full-stack web & ML-backed applications**
-- ⚙️ Comfortable working end-to-end: backend → frontend → deployment
-
-I care about **clean code, performance, and actually shipping things**.
+- 🎯 Preparing for **on-campus placements**
+- 🧠 Strong emphasis on **DSA & core CS**
+- ⚙️ Build **end-to-end applications**
+- 🚀 Care about **clean architecture & performance**
 
 ---
 
-## 🧠 Tech Stack (What I ACTUALLY Use)
+## 🧠 Tech Stack
 
-**Languages**
-- C++ • Java • Python • JavaScript • TypeScript
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,typescript,c" />
+</p>
 
-**Frontend**
-- React • Tailwind CSS • HTML • CSS
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" />
+</p>
 
-**Backend**
-- Node.js • Express • REST APIs
+### 🛠 Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
-**Databases**
-- PostgreSQL • MySQL • MongoDB
+### 🗄 Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+</p>
 
-**Mobile / Cross-platform**
-- Flutter • React Native
+### 📱 Mobile & Cross-Platform
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,react" />
+</p>
 
-**Tools & DevOps**
-- Git • Postman • Linux • Docker (basic)
+### ⚙️ Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,linux,docker" />
+</p>
 
 ---
 
-## 🧩 DSA & Competitive Programming
-I actively practice problem solving and core CS fundamentals.
+## 🧩 DSA & LeetCode
 
-- 🟢 **LeetCode**: _add your profile link here_
-- 🟢 Focus Areas:
-  - Arrays & Strings
-  - Linked List, Stack, Queue
-  - Trees & Graphs
-  - Dynamic Programming
-  - STL & Time Complexity
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=light&font=Karma&ext=contest" />
+</p>
 
-> Consistency > random grinding.
+<p align="center">
+  🔗 <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/">leetcode.com/YOUR_LEETCODE_USERNAME</a>
+</p>
+
+**Focus Areas**
+- Arrays, Strings, STL
+- Linked List, Stack, Queue
+- Trees, Graphs
+- Dynamic Programming
+- Time & Space Complexity
 
 ---
 
 ## 🚧 Featured Projects
-(Only projects that actually matter)
 
-### 🔹 Full Stack Application
+### 🔹 Full Stack Web Application
 - **Tech**: React, Node.js, PostgreSQL
-- **Features**: Auth, CRUD, REST APIs
-- **Repo**: _link here_
+- **Highlights**: Auth, REST APIs, clean UI
+- 🔗 _Add repo link_
 
-### 🔹 Machine Learning / AI Project
+### 🔹 ML / AI Project
 - **Tech**: Python, TensorFlow / OpenCV
-- **Use Case**: _short one-line explanation_
-- **Repo**: _link here_
+- **Use Case**: Real-world problem solving
+- 🔗 _Add repo link_
 
-### 🔹 System / Backend Project
+### 🔹 Backend / System Project
 - **Tech**: Express, DB, API design
-- **Focus**: scalability & clean architecture
-- **Repo**: _link here_
-
-_(Quality > Quantity. 3 solid projects are enough.)_
+- **Focus**: Scalability & architecture
+- 🔗 _Add repo link_
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=prateek-shetty&show_icons=true&hide_border=true" />
 </p>
@@ -91,15 +105,19 @@ _(Quality > Quantity. 3 solid projects are enough.)_
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prateek-shetty&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prateek-shetty&hide_border=true&theme=github-light" />
+</p>
+
 ---
 
 ## 📫 Contact
-- 📧 Email: _add email_
-- 💼 LinkedIn: _add link_
-- 📄 Resume: _add drive/pdf link_
+- 📧 Email: _your email_
+- 💼 LinkedIn: _your linkedin_
+- 📄 Resume: _resume link_
 
 ---
 
 <p align="center">
-  <b>Focused. Consistent. Getting better every day.</b>
+  <b>Focused. Consistent. Building every day.</b>
 </p>
